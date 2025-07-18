@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi, I'm [KUGANRAJ K]
+
+**Profession/Role:**  TECHNICIAN
+Developer
+
+**Top Skills/Technologies:**  
+- Python  
+- React  
+- Machine Learning  
+- [Add others here]
+
+**Favorite/Highlighted Projects:**  
+- [Project Name 1](link-to-project-1)  
+- [Project Name 2](link-to-project-2)  
+- [Add more as needed]
+
+**Short Bio/Tagline:**  
+Passionate developer focused on building scalable solutions and learning new technologies.
+
+**Social Links:**  
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Twitter](https://twitter.com/your-handle)  
+- [Personal Website](https://yourwebsite.com)
