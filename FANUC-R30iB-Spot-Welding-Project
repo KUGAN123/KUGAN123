@@ -1,0 +1,28 @@
+# FANUC R-30iB Industrial Robot Spot Welding Project
+
+## Project Overview
+This project demonstrates an automotive spot-welding application using a FANUC industrial robot with an R-30iB controller and servo welding gun.
+
+## Software and Equipment
+- **Simulation Software:** FANUC ROBOGUIDE
+- **Robot Controller:** FANUC R-30iB
+- **Welding Gun:** Servo Spot-Welding Gun
+- **Application:** Automotive Sheet-Metal Spot Welding
+
+## Project Features
+- Two sample spot-welding locations
+- Robot approach and retract movements
+- Illustrative FANUC LS program
+- ROBOGUIDE setup instructions
+- Project documentation and safety considerations
+
+## Project Files
+- `FANUC_R30iB_Servo_Gun_Spot_Welding_Report.docx` – Project report
+- `FANUC_R30iB_Spot_Weld.LS` – Illustrative robot program
+- `FANUC_ROBOGUIDE_Spot_Welding_Setup_Guide.txt` – Setup instructions
+
+## Important Note
+This is an educational simulation project. Robot positions and welding parameters must be verified and configured by qualified personnel before any physical operation.
+
+## Author
+**Kuganraj K**
